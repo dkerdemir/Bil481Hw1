@@ -5,7 +5,7 @@
 *.project
 bin/*
 .vscode/*
-
+build
 
 # Ignore Gradle build output directory
-build
+
